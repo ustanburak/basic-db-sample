@@ -1,0 +1,10 @@
+
+V
+java:S1144"4Remove this unused private "insertOneRecord" method.(ş›¾Ğûÿÿÿÿ8ÏÆğÚŒ/
+\
+java:S1118
+":Add a private constructor to hide the implicit public one.(·ãø’ıÿÿÿÿ8ÏÆğÚŒ/
+£
+java:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(ş›¾Ğûÿÿÿÿ8ñÚŒ/
+Q
+java:S1172"/Remove this unused method parameter "employee".(ş›¾Ğûÿÿÿÿ8ñÚŒ/
