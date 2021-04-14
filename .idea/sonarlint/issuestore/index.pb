@@ -15,3 +15,9 @@ W
 'src/main/java/query/InsertQueryApi.java,4\b\4befb964776efdc98899eb176a2118d248e48765
 W
 'src/main/java/query/SelectQueryApi.java,0\a\0a38093923606c660ae59bdefe19ab0c17248890
+W
+'src/main/java/query/DeleteQueryApi.java,3\1\316f7e81e834ce91d28d1aa4496ece597f01a73a
+W
+'src/main/java/query/UpdateQueryApi.java,9\1\91ff2146bb73bbf0fc66dd24e62035af6f4ecc3c
+S
+#src/main/java/PrintDBResultSet.java,a\9\a9b53d1444ccf58185327e61c04e17ed70cacc87

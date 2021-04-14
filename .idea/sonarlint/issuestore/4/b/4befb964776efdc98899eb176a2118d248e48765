@@ -1,10 +1,9 @@
 
-V
-java:S1144"4Remove this unused private "insertOneRecord" method.(ş›¾Ğûÿÿÿÿ8ÏÆğÚŒ/
+Z	java:S106#"9Replace this use of System.out or System.err by a logger.(áøáıÿÿÿÿÿ8áıÚúŒ/
 \
-java:S1118
-":Add a private constructor to hide the implicit public one.(·ãø’ıÿÿÿÿ8ÏÆğÚŒ/
-£
-java:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(ş›¾Ğûÿÿÿÿ8ñÚŒ/
-Q
-java:S1172"/Remove this unused method parameter "employee".(ş›¾Ğûÿÿÿÿ8ñÚŒ/
+java:S1118":Add a private constructor to hide the implicit public one.(·ãø’ıÿÿÿÿ8áıÚúŒ/
+Z	java:S106'"9Replace this use of System.out or System.err by a logger.(©şêÜúÿÿÿÿ8áıÚúŒ/
+L
+java:S1066"/Merge this if statement with the enclosing one.(²£í†8õÑİûŒ/
+O
+java:S1135"2Complete the task associated to this TODO comment.(‰–‰×8õÑİûŒ/

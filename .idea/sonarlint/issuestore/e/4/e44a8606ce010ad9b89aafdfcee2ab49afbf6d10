@@ -1,26 +1,4 @@
 
-v	java:S115	"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(øÕÃ8üŠ—ŠŒ/
-Z	java:S106p"9Replace this use of System.out or System.err by a logger.(”á®öüÿÿÿÿ8…ºÏ’Œ/
-U	java:S106F"9Replace this use of System.out or System.err by a logger.(Œ®…Ì8…ºÏ’Œ/
-{	java:S115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(Öùäşûÿÿÿÿ8üŠ—ŠŒ/
-i
-java:S2095?"GUse try-with-resources or close this "Statement" in a "finally" clause.(›‘‘ëûÿÿÿÿ8…ºÏ’Œ/
-v	java:S115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(‹öÙ8üŠ—ŠŒ/
-b
-java:S1124	"EReorder the modifiers to comply with the Java Language Specification.(øÕÃ8Û –ŠŒ/
-g
-java:S1124"EReorder the modifiers to comply with the Java Language Specification.(Öùäşûÿÿÿÿ8Û –ŠŒ/
-q
-java:S2095"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(ïó±úÿÿÿÿÿ8©éØŠŒ/
-Z	java:S106'"9Replace this use of System.out or System.err by a logger.(áøáıÿÿÿÿÿ8©éØŠŒ/
-Z	java:S106L"9Replace this use of System.out or System.err by a logger.(´«¯‘ıÿÿÿÿ8…ºÏ’Œ/
-[	java:S106ƒ"9Replace this use of System.out or System.err by a logger.(²÷ç¤şÿÿÿÿ8º‹“Œ/
-g
-java:S1124"EReorder the modifiers to comply with the Java Language Specification.(¤Œãşÿÿÿÿ8 ¹•ŠŒ/
-b
-java:S1124"EReorder the modifiers to comply with the Java Language Specification.(‹öÙ8Û –ŠŒ/
-U	java:S106"9Replace this use of System.out or System.err by a logger.(øÉı†8¹Õî’Œ/
-{	java:S115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(¤Œãşÿÿÿÿ8üŠ—ŠŒ/
-q
-java:S2095z"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(ïó±úÿÿÿÿÿ8º‹“Œ/
-U	java:S106I"9Replace this use of System.out or System.err by a logger.(Ñ¥¼¿8…ºÏ’Œ/
+W	java:S125"<This block of commented-out lines of code should be removed.(…Èév8‡şÓûŒ/
+X	java:S125"<This block of commented-out lines of code should be removed.(·›¬¼8‡şÓûŒ/
+]	java:S125"<This block of commented-out lines of code should be removed.(–„ö’ùÿÿÿÿ8‡şÓûŒ/
